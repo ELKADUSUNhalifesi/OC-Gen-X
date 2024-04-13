@@ -13,7 +13,7 @@ This app is only for desktop hackintosh machines, it does not have any pre-defin
 * App is made and designed and copyrighted by *Pavo-IM*
 * *Acidanthera Development Team* for Opencore (This app is not endorsed or promoted by Acidanthera)
 * *Dortania Team* for the Opencore Guide.
-* *Hackintosh x86 discord community* for intial testing and logo's
+* *Hackintosh x86 discord community* for initial testing and logo's
 * Minor contributions from *@StephenHeaps*
 
 
